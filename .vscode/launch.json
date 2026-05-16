@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoFourWaysToTestWithResttestclientApplication<demo-four-ways-to-test-with-resttestclient>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.ohhoonim.DemoFourWaysToTestWithResttestclientApplication",
+            "projectName": "demo-four-ways-to-test-with-resttestclient",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
